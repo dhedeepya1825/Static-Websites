@@ -1,0 +1,58 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.foundation-bg-container{
+    background-image:url("https://assets.ccbp.in/frontend/static-website/foundations-bg.png");
+    height:80vh;
+    background-size:cover;
+}
+.foundation-card-container{
+    background-color:#ffffff;
+    border-top-right-radius:20px;
+    border-top-left-radius:20px;
+    height:50vh;
+    background-size:cover;
+}
+.foundation-card-text-container{
+    padding:20px;
+}
+.foundation-card-mainhead{
+    color:#323f4b;
+    font-family:"roboto";
+    font-size:30px;
+    font-weight:bold;
+}
+.foundation-card-para{
+    color:#7b8794;
+    font-family:"roboto";
+    font-size:26px;
+    font-weight:200;
+    width:450px;
+   
+
+}
+.foundation-card-img{
+    height:80px;width:80px;
+   margin:10px;
+    
+}
+.foundation-card-courses-container{
+    text-align:center;
+}
+.foundation-card-description{
+    color:#323f4b;
+    font-family:"roboto";
+    font-size:24px;
+    font-weight:500;
+    text-align:center;
+}
+.foundation-card-border{
+    border-color:#cbd2d9;
+    border-radius:10px;
+    border-width:1px;
+    border-style:solid;
+   
+    margin:20px;
+    padding:20px;
+    width:250px;
+    height:200px;
+    
+}
