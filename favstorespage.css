@@ -1,0 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.favstore-bg-container{
+    background-color:#894bca;
+    width:100vw;
+    background-size:cover;
+}
+.favstore-mainhead{
+    padding:20px;color:#ffffff;
+    width:200px;
+    font-family:"Roboto";
+    font-size:30px;
+    font-weight:bold;
+}
+.favstore-mainimg{
+    height:200px;width:200px; 
+    margin:6px;
+    margin-right:0px;
+}
+.favstore-card-container{
+    background-color:#ffffff;
+    height:70vh;
+    background-size:cover;
+    border-top-right-radius:10px;
+    border-top-left-radius:10px;
+}
+.favstore-card-mainhead{
+    color:#f780c3;
+    padding:20px;
+    font-family:"Roboto";
+    font-size:26px;
+    font-weight:bold;
+}
+.favstore-card-text-container{
+    padding:20px;
+}
+.favstore-card-img{
+    height:100px;width:100px;
+    margin:20px;
+}
+.favstore-card-head{
+    color:#323f4b;
+    font-family:"Roboto";
+    font-size:26px;
+    font-weight:bold;
+}
+.favstore-card-para{
+    color:#7b8794;
+    font-family:"Roboto";
+    font-size:24px;
+    font-weight:200%;
+    width:400px;
+}
