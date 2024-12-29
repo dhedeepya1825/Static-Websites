@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+.newspage-bg-container{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    height:100vh;
+    background-size:cover;
+}
+.newspage-card-item{background-color:#ffffff;
+border-top-left-radius:16px;
+border-top-right-radius:16px;
+padding:25px;}
+.newspage-head{color:#323f4b;
+font-family:"Roboto";
+font-size:30px;
+}
+.newspage-para{color:#7b8794;
+font-family:"Roboto";
+font-size:20px;}
+.newspage-button{border-radius:10px;
+color:#ffffff;
+background-color:#323f4b;
+height:48px;width:128px;
+border-width:0px;}
