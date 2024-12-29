@@ -1,0 +1,95 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.bookstore-bg-container{
+    background-color:#1b1b1b;
+    height:200vh;
+    background-size:cover;
+}
+.bookstore-hpage-mainhead{
+    color:#ffffff;
+    font-size:30px;
+    font-weight:bold;
+    font-family:"Roboto";
+    padding:20px;
+}
+.bookstore-apj-hpage-bg-container{
+    background-color:#e6f6ff;
+    margin:20px;
+    border-radius:20px;
+    width:80vw;
+    background-size:cover;
+}
+.bookstore-hpage-apj-img{
+    height:300px;
+    width:250px;
+}
+.bookstore-hpage-apj-text-container{
+    padding:20px;
+}
+.bookstore-hpage-apj-head{
+    color:#183b56;
+    font-size:30px;
+    font-weight:bold;
+    font-family:"Roboto";
+}
+.bookstore-hpage-apj-para{
+    color:#06070d;
+    font-size:26px;
+    font-weight:bold;
+    font-family:"Roboto";
+}
+.bookstore-hpage-apj-author{
+    color:#183b56;
+    font-size:24px;
+    font-weight:bold;
+    font-family:"Roboto";
+}
+.bookstore-hpage-head{
+    color:#ffffff;
+    font-size:30px;
+    font-weight:bold;
+    font-family:"Roboto";
+}
+.bookstore-hpage-para{
+    color:#ffffff;
+    font-size:24px;
+    font-weight:500;
+    font-family:"Roboto";
+    width:250px;
+}
+.bookstore-hpage-img{
+    height:180px;width:130px;
+    margin:20px;
+}
+.bookstore-hpage-text-container{
+    padding:20px;
+}
+.bookstore-detailspage-img{
+    height:400px;width:250px;
+    border-radius:10px;
+    margin:20px;
+   
+}
+.bookstore-detailspage-text-container{
+   text-align:center;
+}
+.bookstore-detailspage-head{
+    color:#ffffff;
+    font-size:30px;
+    font-weight:bold;
+    font-family:"Roboto";
+
+}
+.bookstore-detailspage-author{
+    color:#9aa5b1;
+    font-size:22px;
+    font-weight:normal;
+    font-family:"Roboto";
+}
+.bookstore-detailspage-para{
+    color:#ffffff;
+    font-size:20px;
+    font-weight:normal;
+    font-family:"Roboto";
+    padding:20px;
+   width:600px;
+}
