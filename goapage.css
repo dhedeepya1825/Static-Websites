@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+.goapage-bottom-section{
+    background-color:#ffffff;
+    padding:20px;
+}
+.goapage-bottom-section-head{
+    font-size:30px;
+    font-family:"Roboto";
+    color:#323f4b;
+}
+.goapage-bottom-section-about-para{
+    color:#9aa5b1;
+    font-family:"Roboto";
+    font-size:25px;
+    font-weight:normal;
+    width:500px;
+}
+
+.goapage-bottom-section-img{
+    height:150px;width:180px;
+    border-radius:10px;
+    margin:10px;
+}
+.goapage-bottom-section-video{
+    border-radius:10px;
+    margin:10px;
+}
