@@ -1,0 +1,79 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+.yoga-hpage-bg-container{
+    background-image:url("https://assets.ccbp.in/frontend/static-website/yoga-bg.png");
+    height:130vh;
+    background-size:cover;
+    
+}
+.yoga-hpage-head{
+    font-weight:bold;
+    font-family:"Roboto";
+    font-size:30px;
+    padding:20px;
+    color:#132d84;
+   text-align: center;
+   
+   
+}
+.yoga-hpage-img{
+    height:300px;width:350px;
+   
+}
+.yoga-hpage-para{
+    font-weight:200;
+    font-family:"Roboto";
+    font-size:24px;
+    padding:20px;
+    color:#323f4b;
+    text-align: center;
+}
+.yoga-hpage-button{
+    height:40px;
+    width:128px;
+    color:#fad693;
+    background-color:#132d84;
+    border-radius:7px;
+    text-align:center;
+    border-width:0px;
+}
+.yoga-detailspage-img{
+    height:200px;width:250px;
+    margin:20px;
+}
+.yoga-detailspage-mainhead{
+    font-weight:300;
+    font-family:"Roboto";
+    font-size:30px;
+    color:#132d84;
+    
+}
+.yoga-detailspage-bg-container{
+    background-color:#ffedcd;
+    height:230vh;
+    background-size:cover;
+}
+.yoga-detailspage-types-img{
+    height:130px;
+    width:130px;
+    margin:20px;
+}
+.yoga-detailspage-card-container{
+    border-radius:20px;
+    margin:20px;
+    background-color:#ffe2ab;
+}
+.yoga-detailspage-text-container{
+    padding:20px;
+}
+.yoga-detailspage-head{
+    font-weight:300;
+    font-family:"Roboto";
+    font-size:26px;
+    color:#253263;
+}
+.yoga-detailspage-para{
+    font-weight:100;
+    font-family:"Roboto";
+    font-size:24px;
+    color:#132d84;
+}
