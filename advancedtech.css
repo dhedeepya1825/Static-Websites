@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700&display=swap');
+.advancedtech-bg-container{
+    background-image:url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height:100vh;
+    background-size:cover;
+}
+.advancedtech-card{border-top-left-radius:16px;
+    border-top-right-radius:16px;
+    background-color:#ffffff;padding:15px;}
+.advancedtech-head{color:#5752ab;font-family:"Bree Serif";font-size:30px;
+font-weight:bold;}
+.advancedtech-para{color:#323f4b;
+font-family:"Roboto";
+font-size:20px;width:350px;}
+.advancedtech-button1{color:#171f46;
+background-color:#ffffff;font-family:"Roboto";
+font-size:12px;font-weight:bold;
+border-color:#d7dfe9;
+border-radius:10px;
+height:38px;border-width:1px;
+width:130px;
+padding:10px;
+margin-right:5px;}
+.advancedtech-button2{
+    color:#ffffff;
+    background-color:#5752ab;
+    border-color:#d7dfe9;
+    border-width:0px;font-size:12px;
+    border-radius:10px;padding:10px;
+    width:130px;height:38px;font-family:"Roboto";
+    margin-left:5px;
+}
